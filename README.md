@@ -1,4 +1,4 @@
-# TEST API POKEMON [![CircleCI](https://circleci.com/gh/WELDISSON/api-pokemon.svg?style=svg)](https://circleci.com/gh/WELDISSON/api-pokemon)
+# TEST API POKEMON [![CircleCI](https://circleci.com/gh/WELDISSON/api-pokemon.svg?style=svg)](https://circleci.com/gh/WELDISSON/api-pokemon)    [![Build Status](https://travis-ci.org/danilopolicarpos/api-pokemon.svg?branch=master)](https://travis-ci.org/danilopolicarpos/api-pokemon)
 
 A simple project to test APIs REST with Mocha, SuperTest e Chai
 
